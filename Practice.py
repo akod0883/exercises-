@@ -15,4 +15,4 @@ def reverse(string):
 if reverse(x.lower()) == x.lower():
     print("This is is a palindrome")
 else:
-    print("Not a palindrome")
+    print("Not a Palindrome")
