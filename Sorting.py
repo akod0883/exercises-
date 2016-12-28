@@ -1,0 +1,1 @@
+print ("Enter a list of numbers")
